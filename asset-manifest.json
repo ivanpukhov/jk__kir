@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jk__kir/static/css/main.f855e6bc.css",
+    "main.js": "/jk__kir/static/js/main.5fbc2fcc.js",
+    "static/js/453.87413fd2.chunk.js": "/jk__kir/static/js/453.87413fd2.chunk.js",
+    "index.html": "/jk__kir/index.html",
+    "main.f855e6bc.css.map": "/jk__kir/static/css/main.f855e6bc.css.map",
+    "main.5fbc2fcc.js.map": "/jk__kir/static/js/main.5fbc2fcc.js.map",
+    "453.87413fd2.chunk.js.map": "/jk__kir/static/js/453.87413fd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5fbc2fcc.js"
+  ]
+}
